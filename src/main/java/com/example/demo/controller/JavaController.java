@@ -12,6 +12,6 @@ public class JavaController {
 
     @GetMapping(value = "test")
     public String test(){
-        return "这是一个测试demo";
+        return "这是一个测试demo111";
     }
 }
